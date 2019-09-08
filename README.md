@@ -14,12 +14,8 @@ This is a CLI Node app, and the following commands will work.
 * movie-this
 * do-what-it-says
 ---
-
 Expected format: "node liri.js command parameter"
 
----
-
----
 # Example:
 ---
 # concert-this
@@ -35,6 +31,7 @@ Expected format: "node liri.js command parameter"
 ![movie-this](https://user-images.githubusercontent.com/49841405/64483688-ec586a00-d1d4-11e9-843b-4cacae618b89.gif)
 ---
 #do-what-it-says
+
 ![do-what-it-says](https://user-images.githubusercontent.com/49841405/64483690-f5e1d200-d1d4-11e9-9e6a-1dfe203fdcd7.gif)
 
 
